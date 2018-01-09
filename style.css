@@ -1,0 +1,25 @@
+body {
+    background-color: fuchsia;
+    color: green;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    border: 5px solid;
+    border-color: aqua; 
+    color: blue;
+}
+
+.orange{
+    color: orange;
+}
+
+#div {
+    color: orange;
+}
+
+#boxy {
+    border: 10px solid gold;
+}
